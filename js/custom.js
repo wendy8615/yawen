@@ -2,7 +2,7 @@ $(document).ready(function() {
 	// funllpage plugin initialization
 	$('#fullpage').fullpage({
 		//anchors錨點
-		anchors:['firstPage', 'secondPage', 'thirdPage','4thpage','5thpage'],
+		anchors:['firstPage', 'secondPage','4thpage','5thpage'],
 		menu: '#js-menu',
 		autoScrolling: false,
 		//取消自動抓取某個區塊
